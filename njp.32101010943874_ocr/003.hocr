@@ -1,0 +1,43 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/102/njp.32101010943874/003.png"; bbox 0 0 1931 3082; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 101 449 529 485">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 101 449 529 485">
+     <span class='ocr_line' id='line_1_1' title="bbox 101 449 529 485; baseline -0.009 -7"><span class='ocrx_word' id='word_1_1' title='bbox 101 451 161 478; x_wconf 82' lang='lat' dir='ltr'>The</span> <span class='ocrx_word' id='word_1_2' title='bbox 175 449 343 485; x_wconf 83' lang='lat' dir='ltr'>Cartwright</span> <span class='ocrx_word' id='word_1_3' title='bbox 357 449 529 476; x_wconf 81' lang='lat' dir='ltr'>Foundation</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 719 1703 1148 1750">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 719 1703 1148 1750">
+     <span class='ocr_line' id='line_1_2' title="bbox 719 1703 1148 1750; baseline -0.005 1"><span class='ocrx_word' id='word_1_4' title='bbox 719 1703 1148 1750; x_wconf 66' lang='lat' dir='ltr'>mam</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 740 1773 1127 1816">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 740 1773 1127 1816">
+     <span class='ocr_line' id='line_1_3' title="bbox 740 1773 1127 1816; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 740 1773 1127 1816; x_wconf 66' lang='lat' dir='ltr'>mm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 807 1842 1075 1883">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 807 1842 1075 1883">
+     <span class='ocr_line' id='line_1_4' title="bbox 807 1842 1075 1883; baseline -0.004 1"><span class='ocrx_word' id='word_1_6' title='bbox 807 1842 1075 1883; x_wconf 65' lang='lat' dir='ltr'><strong>mam</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 652 1318 1216 1970">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 706 1385 1162 1816">
+     <span class='ocr_line' id='line_1_5' title="bbox 821 1385 1054 1660; baseline 0.009 -76"><span class='ocrx_word' id='word_1_7' title='bbox 821 1385 1054 1660; x_wconf 71' lang='grc'><strong>,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 706 1513 1162 1677; baseline -0.009 -7"><span class='ocrx_word' id='word_1_8' title='bbox 706 1513 1162 1677; x_wconf 59' lang='lat' dir='ltr'>n-‘I‘</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 719 1703 1148 1750; baseline -0.009 0"><span class='ocrx_word' id='word_1_9' title='bbox 719 1706 750 1750; x_wconf 84' lang='lat' dir='ltr'>P</span> <span class='ocrx_word' id='word_1_10' title='bbox 762 1706 828 1749; x_wconf 88' lang='lat' dir='ltr'>R1</span> <span class='ocrx_word' id='word_1_11' title='bbox 844 1706 891 1749; x_wconf 94' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_12' title='bbox 906 1705 942 1748; x_wconf 93' lang='lat' dir='ltr'>C</span> <span class='ocrx_word' id='word_1_13' title='bbox 957 1703 1085 1747; x_wconf 86' lang='lat' dir='ltr'>ETO</span> <span class='ocrx_word' id='word_1_14' title='bbox 1101 1704 1148 1746; x_wconf 94' lang='lat' dir='ltr'>N</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 740 1773 1127 1816; baseline -0.01 0"><span class='ocrx_word' id='word_1_15' title='bbox 740 1774 934 1816; x_wconf 84' lang='lat' dir='ltr'>UNIVE</span> <span class='ocrx_word' id='word_1_16' title='bbox 948 1773 1013 1814; x_wconf 84' lang='lat' dir='ltr'>RS</span> <span class='ocrx_word' id='word_1_17' title='bbox 1027 1773 1127 1813; x_wconf 88' lang='lat' dir='ltr'>ITY</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 807 1842 1075 1883">
+     <span class='ocr_line' id='line_1_9' title="bbox 807 1842 1075 1883; baseline 0 -2"><span class='ocrx_word' id='word_1_18' title='bbox 807 1842 1075 1883; x_wconf 85' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+  </div>
